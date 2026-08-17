@@ -3,7 +3,7 @@
 A collection of hands-on Python programs focused on **NumPy**, covering fundamental array operations and practical numerical computing concepts which i did in 2024.
 
 <p align="center">
-  <img src="./assets/numpy.webp" width="700" alt="NumPy Practice">
+  <img src="./assets/NumPy.webp" width="700" alt="NumPy Practice">
 </p>
 
 ## Overview
